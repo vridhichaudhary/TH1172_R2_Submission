@@ -17,7 +17,7 @@ SafeRoute provides an interactive navigation system with features such as:
  - Simple dropdown-based route planning for quick use.
  - Easy-to-understand route status legends for clarity.
 
-5. Logic & Workflow
+3. Logic & Workflow
 • Data Collection: (Planned) – User inputs starting point and destination via dropdown menus.
 • Processing: (Planned) – Backend will process real-time crowd and route safety data (not yet implemented in prototype).
 • Output: Figma prototype visually demonstrates safe route suggestions and safety legends.
@@ -31,7 +31,7 @@ SafeRoute provides an interactive navigation system with features such as:
   Ability to update crowd and route status data.
   Manage route safety inputs for live event monitoring.
 
-7. Tech Stack
+4. Tech Stack
   React.js
   Node.js
   Express.js
@@ -43,12 +43,34 @@ SafeRoute provides an interactive navigation system with features such as:
   i18next
   (Prototype Design: Figma)
 
-9. Future Scope
+5. Future Scope
  • Convert Figma prototype into a fully functional website.
  • Integrate real-time traffic and crowd density APIs.
  • Enhance multilingual support with more Indian languages.
  • Implement AI-driven route safety predictions.
  • Deploy cross-platform solution for both web and mobile users.
 
-10. Links
+6. Links
 • Figma Prototype: https://www.figma.com/design/eqLUU1WWZ4GRqeazwXzk0I/Untitled?node-id=0-1&t=imGNUlYuttTrdl34-1
+
+7. Instructions to Run the Prototype
+ Open the Figma Prototype Link provided below.
+ Click the Play / Present button (▶) in the top-right corner of Figma.
+ Use your mouse to click through the screens and explore the flow.
+ Dropdown menus will reveal route options.
+ The Safe Route button will show suggested paths.
+ Status legend explains route conditions:
+ Green = Open
+ Yellow = Crowded
+ Red = Blocked
+ Use the language toggle (English/Hindi) button to switch between languages.
+ No installation or setup is required. The prototype runs directly in the browser.
+
+
+
+
+
+https://github.com/user-attachments/assets/2960ecb2-a9b1-498b-82e8-c1ea6e8787c7
+
+
+
